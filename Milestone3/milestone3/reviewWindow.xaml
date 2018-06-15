@@ -1,0 +1,13 @@
+﻿<Window x:Class="mile1.reviewWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mile1"
+        mc:Ignorable="d"
+        Title="reviewWindow" Height="437.587" Width="839.327">
+    <Grid>
+        <DataGrid x:Name="reviewdataGrid" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="387" Width="811"/>
+
+    </Grid>
+</Window>
